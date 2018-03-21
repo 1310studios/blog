@@ -287,14 +287,27 @@ footer {
   margin: 0 auto;
 }
 
-#nav {
+#nav{
   //border: thin solid black;
   display: flex;
   justify-content: center;
   width: 900px;
 }
-
-#nav li {
+#nav a:link {
+    color: black;
+    text-decoration: none;
+}
+#nav a:hover {
+    color: #6AA581;
+}
+a:visited {
+    color: black;
+}
+#nav ul{
+  //border: thin solid black;
+  margin-left: -50px;
+}
+#nav li{
   //border: thin solid black;
   list-style: none;
   display: inline;
