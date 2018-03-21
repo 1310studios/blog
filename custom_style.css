@@ -1,12 +1,8 @@
-#header {
-  margin: 0 auto;
-}
-
 #nav{
   //border: thin solid black;
   display: flex;
   justify-content: center;
-  width: 900px;
+  //width: 900px;
 }
 #nav a:link {
     color: black;
