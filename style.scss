@@ -287,6 +287,13 @@ footer {
   margin: 0 auto;
 }
 
+#nav {
+  //border: thin solid black;
+  display: flex;
+  justify-content: center;
+  width: 900px;
+}
+
 #nav li {
   //border: thin solid black;
   list-style: none;
