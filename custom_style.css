@@ -24,7 +24,7 @@ a:visited {
 }
 #navigation ul{
   //border: thin solid black;
-  //margin-left: -50px;
+  margin-left: 0px;
 }
 #navigation li{
   //border: thin solid black;
@@ -33,6 +33,6 @@ a:visited {
   font-family: 'Berkshire Swash', cursive;
   text-decoration: none;
   //font-family: 'Karma', cursive;
-  padding: 10px;
+  padding: 20px;
   font-size: 20px;
 }
