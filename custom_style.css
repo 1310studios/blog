@@ -4,21 +4,21 @@
   justify-content: center;
   width: 900px;
 }
-#nav a:link {
+#navigation a:link {
     color: black;
     text-decoration: none;
 }
-#nav a:hover {
+#navigation a:hover {
     color: #6AA581;
 }
 a:visited {
     color: black;
 }
-#nav ul{
+#navigation ul{
   //border: thin solid black;
   //margin-left: -50px;
 }
-#nav li{
+#navigation li{
   //border: thin solid black;
   list-style: none;
   display: inline;
