@@ -2,6 +2,9 @@
   margin: auto;
   width: 900px;
 }
+#wreath {
+  margin-left: auto;
+}
 #navigation {
   //border: thin solid black;
   display: flex;
