@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hey there!
+title: Hello World!
 ---
 
 Here's where all the blog post magic happens! You can write about anything and everything.
