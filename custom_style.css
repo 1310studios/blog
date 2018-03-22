@@ -26,6 +26,7 @@ a:visited {
 #navigation ul{
   //border: thin solid black;
   padding-left: 0px;
+  margin: 0;
 }
 #navigation li{
   //border: thin solid black;
