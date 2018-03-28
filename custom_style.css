@@ -9,8 +9,6 @@
 }
 #navigation {
   //border: thin solid black;
-  margin-left: -10px;
-  margin-top: -5px;
   display: flex;
   justify-content: center;
   width: 900px;
