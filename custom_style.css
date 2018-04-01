@@ -38,6 +38,9 @@ a:visited {
   padding: 20px;
   font-size: 20px;
 }
+.container{
+  max-width: 900px;
+}
 #footer{
   //border: thin solid black;
   margin: auto;
