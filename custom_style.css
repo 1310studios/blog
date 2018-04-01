@@ -38,3 +38,9 @@ a:visited {
   padding: 20px;
   font-size: 20px;
 }
+#footer{
+  //border: thin solid black;
+  padding-top: 60px;
+  width: 900px;
+  text-align: center;
+}
