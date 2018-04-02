@@ -48,3 +48,7 @@ a:visited {
   width: 900px;
   text-align: center;
 }
+#footer p{
+  color: black;
+  font-size: 12px;
+}
