@@ -23,6 +23,10 @@
 a:visited {
     color: black;
 }
+#navigation {
+  width: 900px;
+  height: 65px;
+}
 #navigation ul{
   //border: thin solid black;
   margin: 0px;
