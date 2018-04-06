@@ -10,7 +10,7 @@
 #navigation {
   //border: thin solid black;
   display: flex;
-  justify-content: center;
+  //justify-content: center;
   width: 900px;
 }
 #navigation a:link {
